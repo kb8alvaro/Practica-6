@@ -1,0 +1,1 @@
+Para la nueva restriccion hay que quitar la propiedad "coste" en la relacion "vende" entre farmacias y medicamentos. Acmbio le añadimos la propiedad "coste" a cada medicamento.

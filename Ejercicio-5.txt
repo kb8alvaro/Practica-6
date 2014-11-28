@@ -1,0 +1,1 @@
+No se puede representar dicha restriccion porque no se puede representar que un tecnico solo realiza pruebas a los aviones del modelo del cual es experto.

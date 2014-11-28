@@ -1,0 +1,1 @@
+Hay una restriccion que hace necesaria la relacion entre dos atributos de una entidad, y se soluciona creando una nueva entidad de direcciones.
